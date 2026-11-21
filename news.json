@@ -252,6 +252,13 @@
 "items": [
 {
 "d": "2026-11-21",
+"cat": "business",
+"topic": "Japan–Saudi Arabia relations",
+"text": "The Japanese trade ministry announces that Saudi Arabia agreed to triple the volume of crude oil stored in Japan to 24 million barrels, under Japan's joint stockpiling system with Saudi Arabia, Kuwait, and the United Arab Emirates.",
+"link": "https://en.wikipedia.org/wiki/Ministry_of_Economy,_Trade_and_Industry"
+},
+{
+"d": "2026-11-21",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
