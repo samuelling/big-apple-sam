@@ -1,6 +1,6 @@
 {
 "scene": {
-"day": "2026-11-21",
+"day": "2026-11-22",
 "history": [
 {
 "d": "2026-10-31",
@@ -199,6 +199,15 @@
 "posts": 3,
 "bytes": 1026604175,
 "lines": 5
+},
+{
+"d": "2026-11-22",
+"users": 6,
+"callers": 44,
+"files": 146,
+"posts": 3,
+"bytes": 1026604175,
+"lines": 5
 }
 ],
 "milestones": [],
@@ -220,15 +229,15 @@
 "link": "https://megazine.org/?issue=02"
 },
 {
-"d": "2026-11-21",
+"d": "2026-11-22",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
-"text": "megaZINE's website had 45 visits in the past week.",
+"text": "megaZINE's website had 35 visits in the past week.",
 "link": "https://megazine.org/"
 },
 {
-"d": "2026-11-21",
+"d": "2026-11-22",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE's most popular piece",
@@ -236,7 +245,7 @@
 "link": "https://megazine.org/?go=chairquest"
 },
 {
-"d": "2026-11-21",
+"d": "2026-11-22",
 "cat": "local",
 "src": "bbs",
 "topic": "MEGAzine BBS",
@@ -251,6 +260,30 @@
 "portal": "https://en.wikipedia.org/wiki/Portal:Current_events",
 "items": [
 {
+"d": "2026-11-22",
+"cat": "local",
+"src": "zine",
+"topic": "megaZINE readership",
+"text": "megaZINE's website had 35 visits in the past week.",
+"link": "https://megazine.org/"
+},
+{
+"d": "2026-11-22",
+"cat": "local",
+"src": "zine",
+"topic": "megaZINE's most popular piece",
+"text": "The most-clicked piece in megaZINE over the past two weeks is ChairQuest, with 4 clicks.",
+"link": "https://megazine.org/?go=chairquest"
+},
+{
+"d": "2026-11-22",
+"cat": "local",
+"src": "bbs",
+"topic": "MEGAzine BBS",
+"text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller, 1 new file.",
+"link": "https://samuelling.github.io/BBS/"
+},
+{
 "d": "2026-11-21",
 "cat": "business",
 "topic": "Japan–Saudi Arabia relations",
@@ -259,27 +292,10 @@
 },
 {
 "d": "2026-11-21",
-"cat": "local",
-"src": "zine",
-"topic": "megaZINE readership",
-"text": "megaZINE's website had 45 visits in the past week.",
-"link": "https://megazine.org/"
-},
-{
-"d": "2026-11-21",
-"cat": "local",
-"src": "zine",
-"topic": "megaZINE's most popular piece",
-"text": "The most-clicked piece in megaZINE over the past two weeks is ChairQuest, with 4 clicks.",
-"link": "https://megazine.org/?go=chairquest"
-},
-{
-"d": "2026-11-21",
-"cat": "local",
-"src": "bbs",
-"topic": "MEGAzine BBS",
-"text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller, 1 new file.",
-"link": "https://samuelling.github.io/BBS/"
+"cat": "science",
+"topic": "Exploration of Mercury",
+"text": "The European Space Agency announces that the BepiColombo spacecraft inserted itself into orbit around Mercury.",
+"link": "https://en.wikipedia.org/wiki/European_Space_Agency"
 },
 {
 "d": "2026-11-20",
@@ -539,41 +555,6 @@
 "topic": "",
 "text": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
 "link": "https://en.wikipedia.org/wiki/United_States"
-},
-{
-"d": "2026-11-01",
-"cat": "sports",
-"topic": "2026–27 ISU Grand Prix of Figure Skating",
-"text": "In figure skating, Japan's Mao Shimada wins the women's singles title at Skate Canada in her senior Grand Prix debut, finishing ahead of Estonia's Niina Petrõkina and American Isabeau Levito.",
-"link": "https://en.wikipedia.org/wiki/Figure_skating"
-},
-{
-"d": "2026-11-01",
-"cat": "sports",
-"topic": "2026 Formula One World Championship",
-"text": "In open-wheel racing, Italian driver Kimi Antonelli, driving for Mercedes, wins the Formula One World Drivers' Championship after finishing third at the Mexico City Grand Prix, becoming the youngest Drivers' Champion at the age of 20 years and 68 days.",
-"link": "https://en.wikipedia.org/wiki/Open-wheel_racing"
-},
-{
-"d": "2026-11-01",
-"cat": "sports",
-"topic": "2026 NFL season",
-"text": "In American football, the Tampa Bay Buccaneers refuse to complete a pass during its 16-0 victory against the rival Atlanta Falcons in Week 8, becoming the first National Football League team to win a game without completing a pass since the Buffalo Bills did so in 1974.",
-"link": "https://en.wikipedia.org/wiki/American_football"
-},
-{
-"d": "2026-11-01",
-"cat": "sports",
-"topic": "2026 New York City Marathon",
-"text": "Swedish long-distance runner Andreas Almgren wins the 55th edition of the New York City Marathon in New York City, New York, U.S., during his first debut.",
-"link": "https://en.wikipedia.org/wiki/Sweden"
-},
-{
-"d": "2026-11-01",
-"cat": "sports",
-"topic": "2026 Mamoré-Uberlândia football match incident",
-"text": "In association football, a match between U20 clubs EC Mamoré and Uberlândia EC in Minas Gerais, Brazil, is abandoned after referees handed out 53 red cards, including to 43 players and 10 club officials, following a massive brawl, setting the world record for the most red cards given in a single match.",
-"link": "https://en.wikipedia.org/wiki/Association_football"
 },
 {
 "d": "2026-11-01",
