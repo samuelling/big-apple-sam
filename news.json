@@ -1,6 +1,6 @@
 {
 "scene": {
-"day": "2026-11-22",
+"day": "2026-11-23",
 "history": [
 {
 "d": "2026-10-31",
@@ -208,6 +208,15 @@
 "posts": 3,
 "bytes": 1026604175,
 "lines": 5
+},
+{
+"d": "2026-11-23",
+"users": 6,
+"callers": 44,
+"files": 146,
+"posts": 3,
+"bytes": 1026604175,
+"lines": 5
 }
 ],
 "milestones": [],
@@ -229,23 +238,23 @@
 "link": "https://megazine.org/?issue=02"
 },
 {
-"d": "2026-11-22",
+"d": "2026-11-23",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
-"text": "megaZINE's website had 35 visits in the past week.",
+"text": "megaZINE's website had 29 visits in the past week.",
 "link": "https://megazine.org/"
 },
 {
-"d": "2026-11-22",
+"d": "2026-11-23",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE's most popular piece",
-"text": "The most-clicked piece in megaZINE over the past two weeks is ChairQuest, with 4 clicks.",
-"link": "https://megazine.org/?go=chairquest"
+"text": "The most-clicked piece in megaZINE over the past two weeks is thingsynth, with 2 clicks.",
+"link": "https://megazine.org/?go=thingsynth"
 },
 {
-"d": "2026-11-22",
+"d": "2026-11-23",
 "cat": "local",
 "src": "bbs",
 "topic": "MEGAzine BBS",
@@ -260,28 +269,56 @@
 "portal": "https://en.wikipedia.org/wiki/Portal:Current_events",
 "items": [
 {
-"d": "2026-11-22",
+"d": "2026-11-23",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
-"text": "megaZINE's website had 35 visits in the past week.",
+"text": "megaZINE's website had 29 visits in the past week.",
 "link": "https://megazine.org/"
 },
 {
-"d": "2026-11-22",
+"d": "2026-11-23",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE's most popular piece",
-"text": "The most-clicked piece in megaZINE over the past two weeks is ChairQuest, with 4 clicks.",
-"link": "https://megazine.org/?go=chairquest"
+"text": "The most-clicked piece in megaZINE over the past two weeks is thingsynth, with 2 clicks.",
+"link": "https://megazine.org/?go=thingsynth"
 },
 {
-"d": "2026-11-22",
+"d": "2026-11-23",
 "cat": "local",
 "src": "bbs",
 "topic": "MEGAzine BBS",
 "text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller, 1 new file.",
 "link": "https://samuelling.github.io/BBS/"
+},
+{
+"d": "2026-11-22",
+"cat": "culture",
+"topic": "63rd Golden Horse Awards",
+"text": "The 63rd Golden Horse Awards take place in Taipei, Taiwan, with the Hong Kong film We Are Born Good winning Best Narrative Feature.",
+"link": "https://en.wikipedia.org/wiki/Golden_Horse_Awards"
+},
+{
+"d": "2026-11-22",
+"cat": "environment",
+"topic": "2026 United Nations Climate Change Conference",
+"text": "The 2026 United Nations Climate Change Conference (COP31) in Antalya, Turkey, concludes without a final agreement after countries failed to reach consensus on fossil fuel policies. It is the longest climate summit on record.",
+"link": "https://en.wikipedia.org/wiki/United_Nations_Climate_Change_Conference"
+},
+{
+"d": "2026-11-22",
+"cat": "sports",
+"topic": "2026 ATP Finals",
+"text": "In tennis, Carlos Alcaraz defeats Alexander Zverev in the final, 6–2, 7–6 to win his first singles title at the 2026 ATP Finals.",
+"link": "https://en.wikipedia.org/wiki/Tennis"
+},
+{
+"d": "2026-11-22",
+"cat": "sports",
+"topic": "2026 MotoGP World Championship",
+"text": "In motorcycle racing, Spanish rider Marc Márquez of Ducati Corse secures his eighth MotoGP World Championship after finishing eighth at the Portuguese Grand Prix, equalling Giacomo Agostini's record for the most premier-class motorcycle racing world titles.",
+"link": "https://en.wikipedia.org/wiki/Motorcycle_racing"
 },
 {
 "d": "2026-11-21",
@@ -541,20 +578,6 @@
 "topic": "2026 Melbourne Cup",
 "text": "In thoroughbred racing, Point Of Law, trained by Ciaron Maher, wins the 2026 Melbourne Cup at Flemington Racecourse in Victoria, Australia. Zahrann and Juja Kibo, also trained by Maher, finish second and third respectively.",
 "link": "https://en.wikipedia.org/wiki/Thoroughbred_racing"
-},
-{
-"d": "2026-11-02",
-"cat": "business",
-"topic": "Rwanda–United States relations, South Africa–United States relations",
-"text": "The United States announces the suspensions of Rwanda and South Africa from duty-free trade benefits under the African Growth and Opportunity Act beginning January 1, 2027, citing trade barriers, human rights concerns, and threats to U.S. interests.",
-"link": "https://en.wikipedia.org/wiki/United_States"
-},
-{
-"d": "2026-11-02",
-"cat": "environment",
-"topic": "",
-"text": "The United States Food and Drug Administration approves the first generic version of lenacapavir, a twice-yearly HIV prevention injection expected to cost about US$40 annually in 120 low- and middle-income countries.",
-"link": "https://en.wikipedia.org/wiki/United_States"
 },
 {
 "d": "2026-11-01",
