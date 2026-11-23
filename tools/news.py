@@ -17,7 +17,7 @@ import html, json, re, sys, time, urllib.parse, urllib.request
 from datetime import date, timedelta
 from html.parser import HTMLParser
 
-UA = 'BigAppleSam-HomeBlocks/1.0 (https://samuelling.github.io/Big-Apple-Sam/; news desk headlines)'
+UA = 'BigAppleSam-HomeBlocks/1.0 (https://linglab.org/big-apple-sam/; news desk headlines)'
 KEEP = {'Arts and culture': 'culture', 'Business and economy': 'business', 'Health and environment': 'environment',
         'Science and technology': 'science', 'Sports': 'sports'}
 SKIP = re.compile(r'\b(kill|killed|killing|dies|died|death|deaths|dead|fatal|injur\w*|attack\w*|shoot\w*|shot|bomb\w*|explosion|crash\w*|'
@@ -157,9 +157,9 @@ def scene(old, today):
                     f"{df} new file{'s' if df != 1 else ''}" if df > 0 else '']
             bits = [b for b in bits if b]
             if bits: txt += ' This week: ' + ', '.join(bits) + '.'
-        items.append({'d': t, 'cat': 'local', 'src': 'bbs', 'topic': 'MEGAzine BBS', 'text': txt, 'link': 'https://samuelling.github.io/BBS/'})
+        items.append({'d': t, 'cat': 'local', 'src': 'bbs', 'topic': 'MEGAzine BBS', 'text': txt, 'link': 'https://linglab.org/bbs/'})
     for m in miles:
-        items.append({'d': m['d'], 'cat': 'local', 'src': 'bbs', 'topic': 'MEGAzine BBS milestone', 'text': m['text'], 'link': 'https://samuelling.github.io/BBS/'})
+        items.append({'d': m['d'], 'cat': 'local', 'src': 'bbs', 'topic': 'MEGAzine BBS milestone', 'text': m['text'], 'link': 'https://linglab.org/bbs/'})
     return {'day': t, 'history': hist, 'milestones': miles, 'items': items}
 
 

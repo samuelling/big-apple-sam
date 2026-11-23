@@ -4522,7 +4522,7 @@ function hbAwards(s,r){return`<p align="center">${hbPickN(r,HBAWARD,2).map((a,i)
 function hbMidiBox(s){const nm=hbMidiName(s);return`<table border="2" cellpadding="3" bgcolor="#c0c0c0" align="center"><tr><td><font face="Arial" size="1" color="#000000"><b>&#9835; ${hbE(nm)}</b></font><br><a href="midi:play"><img alt="Play" title="Play" src="${hbSprite('mplay').fr[0]}" width="22" height="18"></a> <a href="midi:stop"><img alt="Stop" title="Stop" src="${hbSprite('mstop').fr[0]}" width="22" height="18"></a></td></tr></table>`}
 function hbMidiName(s){if(s.kind==='positron')return'mylittlefriend.mid';{const h=hbHolTuneName(s);if(h)return h+'.mid'}const r=hbR(s.p,7);return hbPick(r,['theme','lovesong','sunset','canyon','mysong','groove','dreams','rain','party','nocturne','journey','oldtown'])+(r()<.5?(1+Math.floor(r()*9)):'')+'.mid'}
 
-const HBZINE='http://megazine.org/',HBBBS='https://samuelling.github.io/BBS/';
+const HBZINE='http://megazine.org/',HBBBS='https://linglab.org/bbs/';
 function hbBuzz(s,F){if(s.kind==='construction'||s.kind==='positron'||s.kind==='gk'||s.kind==='lab'||!(s.zine||s.bbs))return'';const R=hbR(s.p,96),v=s.v,o=[];
   const Z=`<a href="${HBZINE}">megaZINE</a>`,B=`<a href="${HBBBS}">the MEGAzine BBS</a>`;
   if(s.zine)o.push(hbPick(R,[`<b>Has anybody else seen ${Z}?</b> Somebody left a copy at the laundromat. It's one sheet of paper folded into a tiny book, and every page points to something weird.`,
@@ -5952,7 +5952,7 @@ HBMOD.unshift(
     return`<h1>My Garden</h1>${hbPic(hbPhoto('garden',s.id),'the window boxes',200)}<p>Window boxes, a fire escape full of pots, and a cottage garden I keep planning in my head. Tomatoes did well this year. The basil did not survive the kids.</p>
     <p>Someday: a dry stone wall. I have read three books about it.</p><p><a href="${hbUrl(s)}">Back to the Gabriel Knight page</a></p>`}});
 function hbGK(s,F){
-  const bbs='https://samuelling.github.io/BBS/',g=hbUrl(s,'guestbook.html');
+  const bbs='https://linglab.org/bbs/',g=hbUrl(s,'guestbook.html');
   const body=HBGK_BODY.replace('{{TOP}}',`<p><b>Note:</b> I moved this page over from my old school account to HomeBlocks. I did not change a thing, except I finally have a <a href="${g}">guestbook</a>. Also see <a href="${hbUrl(s,'synths.html')}">my synths</a>, ${(o=>o?`my day job at <a href="${hbUrl(o)}">the Ling Lab</a>, `:'')(hbOtherSite(s))} <a href="${hbUrl(s,'garden.html')}">my garden</a>, and <a href="${bbs}">the MEGAzine BBS</a>, where I am the SysOp.</p>`)
     .replace('{{BBS}}',`<li><b>The MEGAzine BBS:</b> <a href="${bbs}">dial in</a> and ask the sysop (that's me) about the adventure game file area.</li>`)
     .replace('{{GUEST}}',`<p><b>Update:</b> HomeBlocks has guestbooks! <a href="${g}">Sign mine here.</a> I read every entry.</p>`)
@@ -6113,7 +6113,7 @@ function hbLabCrump(s,F,file){const P=(t,b)=>hbLabDoc(s,F,file,t,b);
 function hbLab(s,F,file){if(file==='guestbook.html')return null;s.lab=s.lab||hbLabOf(s.p);return s.lab==='ling'?hbLabLing(s,F,file):s.lab==='crump'?hbLabCrump(s,F,file):null}
 
 /* ---------- the HomeBlocks portal, directories, search and errors ---------- */
-const HBAPP='https://samuelling.github.io/Big-Apple-Sam/';
+const HBAPP='https://linglab.org/big-apple-sam/';
 function hbTitleOf(x){if(!x.title)x.title=hbTitle(x,hbFacts(x,F0()));return x.title}
 function hbCreatedOf(x){if(x.created===undefined)x.created=hbFacts(x,F0()).created;return x.created}
 function hbDoc(title,body,css=''){return`<!doctype html><html><head><meta charset="utf-8"><title>${hbE(title)}</title><style>body{margin:0;background:#ffffff;color:#000;font:13px Verdana,Arial,sans-serif}a{color:#0000cc}a:visited{color:#551a8b}
@@ -6264,7 +6264,7 @@ function hbHook(){
   doc.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('a[href]');if(!a||e.defaultPrevented)return;const h=a.getAttribute('href');e.preventDefault();if(h.startsWith('#')){hbJump(doc,h);return}
     if(h==='midi:play'){if(HB.cur&&HB.cur.res.s)hbMidiPlay(HB.cur.res.s);return}if(h==='midi:stop'){hbMidiStop();return}
     if(h.startsWith('share:')){hbShareDo(h.slice(6),doc);return}
-    if(/^https?:\/\/(www\.)?(megazine\.org|samuelling\.github\.io|sites\.bu\.edu|crumplab\.com|github\.com|en\.wikipedia\.org|creativecommons\.org)\//i.test(h)){window.open(h.replace(/^http:/,'https:'),'_blank','noopener');return}hbGo(h)});
+    if(/^https?:\/\/(www\.)?(megazine\.org|samuelling\.github\.io|linglab\.org|sites\.bu\.edu|crumplab\.com|github\.com|en\.wikipedia\.org|creativecommons\.org)\//i.test(h)){window.open(h.replace(/^http:/,'https:'),'_blank','noopener');return}hbGo(h)});
   doc.addEventListener('mouseover',e=>{const a=e.target.closest&&e.target.closest('a[href]');hbEl('wStat').textContent=a?(/^midi:/.test(a.getAttribute('href'))?'Play MIDI':a.getAttribute('href')):'Document: Done'});
   doc.addEventListener('submit',e=>{e.preventDefault();const f=e.target,fd=new FormData(f);
     if(f.dataset.search)return hbGo(HBROOT+'search?q='+encodeURIComponent((fd.get('q')||'').toString().trim()));
