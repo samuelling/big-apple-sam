@@ -1,6 +1,6 @@
 {
 "scene": {
-"day": "2026-11-23",
+"day": "2026-11-24",
 "history": [
 {
 "d": "2026-10-31",
@@ -217,6 +217,15 @@
 "posts": 3,
 "bytes": 1026604175,
 "lines": 5
+},
+{
+"d": "2026-11-24",
+"users": 6,
+"callers": 44,
+"files": 146,
+"posts": 3,
+"bytes": 1026604175,
+"lines": 5
 }
 ],
 "milestones": [],
@@ -238,15 +247,15 @@
 "link": "https://megazine.org/?issue=02"
 },
 {
-"d": "2026-11-23",
+"d": "2026-11-24",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
-"text": "megaZINE's website had 29 visits in the past week.",
+"text": "megaZINE's website had 36 visits in the past week.",
 "link": "https://megazine.org/"
 },
 {
-"d": "2026-11-23",
+"d": "2026-11-24",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE's most popular piece",
@@ -254,11 +263,11 @@
 "link": "https://megazine.org/?go=thingsynth"
 },
 {
-"d": "2026-11-23",
+"d": "2026-11-24",
 "cat": "local",
 "src": "bbs",
 "topic": "MEGAzine BBS",
-"text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller, 1 new file.",
+"text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal.",
 "link": "https://linglab.org/bbs/"
 }
 ]
@@ -269,15 +278,15 @@
 "portal": "https://en.wikipedia.org/wiki/Portal:Current_events",
 "items": [
 {
-"d": "2026-11-23",
+"d": "2026-11-24",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
-"text": "megaZINE's website had 29 visits in the past week.",
+"text": "megaZINE's website had 36 visits in the past week.",
 "link": "https://megazine.org/"
 },
 {
-"d": "2026-11-23",
+"d": "2026-11-24",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE's most popular piece",
@@ -285,12 +294,19 @@
 "link": "https://megazine.org/?go=thingsynth"
 },
 {
-"d": "2026-11-23",
+"d": "2026-11-24",
 "cat": "local",
 "src": "bbs",
 "topic": "MEGAzine BBS",
-"text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller, 1 new file.",
+"text": "The MEGAzine BBS has had 44 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal.",
 "link": "https://linglab.org/bbs/"
+},
+{
+"d": "2026-11-23",
+"cat": "sports",
+"topic": "2031 and 2035 FIFA Women's World Cup bids",
+"text": "In association football, FIFA confirms Costa Rica, Jamaica, Mexico, and the United States as joint hosts of the 2031 Women's World Cup, while England, Northern Ireland, Scotland, and Wales will jointly host the 2035 tournament.",
+"link": "https://en.wikipedia.org/wiki/Association_football"
 },
 {
 "d": "2026-11-22",
@@ -310,7 +326,7 @@
 "d": "2026-11-22",
 "cat": "sports",
 "topic": "2026 ATP Finals",
-"text": "In tennis, Carlos Alcaraz defeats Alexander Zverev in the final, 6–2, 7–6 to win his first singles title at the 2026 ATP Finals.",
+"text": "In tennis, Carlos Alcaraz defeats Alexander Zverev 6–2, 7–6 in the final to win his first singles title at the 2026 ATP Finals.",
 "link": "https://en.wikipedia.org/wiki/Tennis"
 },
 {
@@ -337,16 +353,23 @@
 {
 "d": "2026-11-20",
 "cat": "science",
-"topic": "",
-"text": "Anthropic employee and mathematician Levent Alpöge releases a claimed proof of the Riemann hypothesis. The proof was created with assistance from Claude.",
+"topic": "Mathematics and artificial intelligence",
+"text": "Anthropic employee and mathematician Levent Alpöge releases a claimed proof of the Riemann hypothesis, created with assistance from Claude.",
+"link": "https://en.wikipedia.org/wiki/Anthropic"
+},
+{
+"d": "2026-11-19",
+"cat": "business",
+"topic": "AI boom, Initial public offering of Anthropic",
+"text": "Anthropic holds its initial public offering, raising roughly US$81 billion and becoming the largest IPO in history by amount raised.",
 "link": "https://en.wikipedia.org/wiki/Anthropic"
 },
 {
 "d": "2026-11-19",
 "cat": "business",
 "topic": "",
-"text": "Grand Theft Auto VI by Rockstar Games becomes the biggest video game launch in history with more than $2.3 billion in sales, surpassing the previous record holder, Call of Duty: Modern Warfare II, by more than $600 million.",
-"link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+"text": "The release of American video game Grand Theft Auto VI becomes the biggest launch of an entertainment product in the world with more than $2.3 billion in sales, surpassing the previous record holder, video game Call of Duty: Modern Warfare II (2022), by more than $600 million.",
+"link": "https://en.wikipedia.org/wiki/Video_games_in_the_United_States"
 },
 {
 "d": "2026-11-18",
@@ -564,20 +587,6 @@
 "topic": "",
 "text": "The Neil Gehrels Swift Observatory, a space telescope for studying gamma-ray bursts, re-enters Earth's atmosphere over Sumatra, ending its mission of nearly 22 years.",
 "link": "https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory"
-},
-{
-"d": "2026-11-03",
-"cat": "culture",
-"topic": "",
-"text": "Spanish author Cristina Fernández Cubas is awarded the 2026 Cervantes Prize to honor her writing in the Spanish language.",
-"link": "https://en.wikipedia.org/wiki/Spain"
-},
-{
-"d": "2026-11-03",
-"cat": "sports",
-"topic": "2026 Melbourne Cup",
-"text": "In thoroughbred racing, Point Of Law, trained by Ciaron Maher, wins the 2026 Melbourne Cup at Flemington Racecourse in Victoria, Australia. Zahrann and Juja Kibo, also trained by Maher, finish second and third respectively.",
-"link": "https://en.wikipedia.org/wiki/Thoroughbred_racing"
 },
 {
 "d": "2026-11-01",
