@@ -288,6 +288,20 @@
 "items": [
 {
 "d": "2026-11-25",
+"cat": "business",
+"topic": "",
+"text": "The European Union and United Kingdom impose fines totalling more than €570 million (US$626 million) on fragrance manufacturers Firmenich, Givaudan, and International Flavors & Fragrances for exchanging commercially sensitive information between 2019 and 2023.",
+"link": "https://en.wikipedia.org/wiki/European_Union"
+},
+{
+"d": "2026-11-25",
+"cat": "science",
+"topic": "Shenzhou 24",
+"text": "Pakistani astronaut Muhammad Zeeshan Ali becomes the first Pakistani to reach orbit and the first foreign national to board China's Tiangong space station, arriving aboard the Shenzhou-24 spacecraft alongside two Chinese astronauts to conduct scientific experiments during a five-day mission.",
+"link": "https://en.wikipedia.org/wiki/Pakistan"
+},
+{
+"d": "2026-11-25",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
@@ -309,6 +323,13 @@
 "topic": "MEGAzine BBS",
 "text": "The MEGAzine BBS has had 45 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller.",
 "link": "https://linglab.org/bbs/"
+},
+{
+"d": "2026-11-24",
+"cat": "culture",
+"topic": "Miss Universe 2026",
+"text": "Jennifer Barreto of Puerto Rico is crowned Miss Universe in San Juan, Puerto Rico, becoming the sixth Puerto-Rican woman, the first mother and married woman to win the title.",
+"link": "https://en.wikipedia.org/wiki/Jennifer_Barreto"
 },
 {
 "d": "2026-11-23",
