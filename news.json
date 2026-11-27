@@ -306,6 +306,13 @@
 "items": [
 {
 "d": "2026-11-27",
+"cat": "sports",
+"topic": "2026–27 ISU Grand Prix of Figure Skating",
+"text": "In figure skating, Ilia Malinin of the United States sets a men's short programme world record with 114.81 points at the NHK Trophy in Tokyo, Japan, surpassing compatriot Nathan Chen's previous record of 113.97 points set at the 2022 Winter Olympics.",
+"link": "https://en.wikipedia.org/wiki/Figure_skating"
+},
+{
+"d": "2026-11-27",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
