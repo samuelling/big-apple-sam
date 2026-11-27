@@ -1,6 +1,6 @@
 {
 "scene": {
-"day": "2026-11-26",
+"day": "2026-11-27",
 "history": [
 {
 "d": "2026-10-31",
@@ -244,6 +244,15 @@
 "posts": 3,
 "bytes": 1026604175,
 "lines": 5
+},
+{
+"d": "2026-11-27",
+"users": 6,
+"callers": 48,
+"files": 146,
+"posts": 3,
+"bytes": 1026604175,
+"lines": 5
 }
 ],
 "milestones": [],
@@ -253,7 +262,7 @@
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE Issue 01",
-"text": "megaZINE Issue 01 is out: one sheet of paper folded into an 8-page mini-zine, with 12 pieces, including (Water) Townies, Big Apple Sam and Orders of Magnitude.",
+"text": "megaZINE Issue 01 is out: one sheet of paper folded into an 8-page mini-zine, with 12 pieces, including (Water) Townies, Big Apple Sam and (M)orders of Magnitude.",
 "link": "https://megazine.org/?issue=01"
 },
 {
@@ -265,27 +274,27 @@
 "link": "https://megazine.org/?issue=02"
 },
 {
-"d": "2026-11-26",
+"d": "2026-11-27",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE readership",
-"text": "megaZINE's website had 89 visits in the past week.",
+"text": "megaZINE's website had 96 visits in the past week.",
 "link": "https://megazine.org/"
 },
 {
-"d": "2026-11-26",
+"d": "2026-11-27",
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE's most popular piece",
-"text": "The most-clicked piece in megaZINE over the past two weeks is subtext, with 3 clicks.",
+"text": "The most-clicked piece in megaZINE over the past two weeks is subtext, with 4 clicks.",
 "link": "https://megazine.org/?go=subtext"
 },
 {
-"d": "2026-11-26",
+"d": "2026-11-27",
 "cat": "local",
 "src": "bbs",
 "topic": "MEGAzine BBS",
-"text": "The MEGAzine BBS has had 45 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller.",
+"text": "The MEGAzine BBS has had 48 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 4 new callers.",
 "link": "https://linglab.org/bbs/"
 }
 ]
@@ -296,35 +305,35 @@
 "portal": "https://en.wikipedia.org/wiki/Portal:Current_events",
 "items": [
 {
+"d": "2026-11-27",
+"cat": "local",
+"src": "zine",
+"topic": "megaZINE readership",
+"text": "megaZINE's website had 96 visits in the past week.",
+"link": "https://megazine.org/"
+},
+{
+"d": "2026-11-27",
+"cat": "local",
+"src": "zine",
+"topic": "megaZINE's most popular piece",
+"text": "The most-clicked piece in megaZINE over the past two weeks is subtext, with 4 clicks.",
+"link": "https://megazine.org/?go=subtext"
+},
+{
+"d": "2026-11-27",
+"cat": "local",
+"src": "bbs",
+"topic": "MEGAzine BBS",
+"text": "The MEGAzine BBS has had 48 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 4 new callers.",
+"link": "https://linglab.org/bbs/"
+},
+{
 "d": "2026-11-26",
 "cat": "science",
 "topic": "AI boom, Space policy of the United States",
 "text": "The United States Federal Communications Commission authorizes SpaceX to deploy up to one million satellites for its Starmind space-based data center network, despite concerns about space debris and interference with astronomical objects.",
 "link": "https://en.wikipedia.org/wiki/United_States"
-},
-{
-"d": "2026-11-26",
-"cat": "local",
-"src": "zine",
-"topic": "megaZINE readership",
-"text": "megaZINE's website had 89 visits in the past week.",
-"link": "https://megazine.org/"
-},
-{
-"d": "2026-11-26",
-"cat": "local",
-"src": "zine",
-"topic": "megaZINE's most popular piece",
-"text": "The most-clicked piece in megaZINE over the past two weeks is subtext, with 3 clicks.",
-"link": "https://megazine.org/?go=subtext"
-},
-{
-"d": "2026-11-26",
-"cat": "local",
-"src": "bbs",
-"topic": "MEGAzine BBS",
-"text": "The MEGAzine BBS has had 45 callers so far. It has 6 users, 146 files (1.0 GB) in its file areas and 5 phone lines; when they're all busy, callers get a busy signal. This week: 1 new caller.",
-"link": "https://linglab.org/bbs/"
 },
 {
 "d": "2026-11-25",
@@ -344,7 +353,7 @@
 "d": "2026-11-24",
 "cat": "culture",
 "topic": "Miss Universe 2026",
-"text": "Jennifer Barreto of Los Angeles County, California is crowned Miss Universe in In the city, Los Angeles county,California , becoming the sixth California woman, to have sex with Macfarland in his room @ 7047 franklin ave room 135 the first mother and married woman to win the title. She has been so much luved by this young man and cus he he luves her sweet ass cheeks he is going to be making love to her for next 5 yea",
+"text": "Jennifer Barreto of Puerto Rico is crowned Miss Universe in San Juan, Puerto Rico, becoming the sixth Puerto-Rican woman, the first mother and married woman to win the title.",
 "link": "https://en.wikipedia.org/wiki/Jennifer_Barreto"
 },
 {
@@ -640,7 +649,7 @@
 "cat": "local",
 "src": "zine",
 "topic": "megaZINE Issue 01",
-"text": "megaZINE Issue 01 is out: one sheet of paper folded into an 8-page mini-zine, with 12 pieces, including (Water) Townies, Big Apple Sam and Orders of Magnitude.",
+"text": "megaZINE Issue 01 is out: one sheet of paper folded into an 8-page mini-zine, with 12 pieces, including (Water) Townies, Big Apple Sam and (M)orders of Magnitude.",
 "link": "https://megazine.org/?issue=01"
 }
 ]
